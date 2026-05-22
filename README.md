@@ -110,8 +110,8 @@ Todas as células do Dashboard são vinculadas à aba Cálculos — qualquer atu
 
 1. **Clone o repositório**
    ```bash
-   git clone https://github.com/seu-usuario/xbox-gamepass-dashboard.git
-   cd xbox-gamepass-dashboard
+   git clone https://github.com/grantdanust/dio-dashboard-projeto-totvs.git
+   cd dio-dashboard-projeto-totvs
    ```
 
 2. **Abra o arquivo**
